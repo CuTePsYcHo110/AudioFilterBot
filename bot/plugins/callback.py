@@ -1639,10 +1639,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/AlbertEinstein_TG'),
-            InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Filter-Bot-V2')
+            InlineKeyboardButton('My Dev 👨‍🔬', url='t.me/CuTePsYcHo_110'),
+            InlineKeyboardButton('Contact Me 🧾', url ='t.me/CuTe_PsYcHo_110')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('Channel 🛠', url='t.me/CraZie_BoTz')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
